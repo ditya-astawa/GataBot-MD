@@ -7,27 +7,27 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50495086382', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['5492914469417', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
-  ['972529277542', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 7 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['5492266466080'],
-  ['573136855110'],
-  ['50689823726'],
-  ['50495086382'],
-  ['584125778026'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383'] 
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
+  ['6285237596750', 'Ditya𝘽𝙤𝙩-𝙈𝘿 7 💖🐈', true],
+  ['6285237596750', 'Ditya-Astawa | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'],
+  ['6285237596750'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['6285237596750'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -124,37 +124,37 @@ global.version = vs
 global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UC0ww-SQnS2aM4qxy5hVX9qA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/q.c.ditya'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/Dityaastawa'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/Bi656UOF5OEHznM0jxk9OB'
+global.nna = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/BszaA3NFekyH7nhm7ZLnu6'
+global.nn = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/HJbk835UmOM3Aelm0Sqn3o'
+global.nnn = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/BV4X36YQa5A0wwgZAShW8D'
+global.nnnt = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JWxO7mYh8AdCa9BtRXqERT'
+global.nnntt = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/IcvAZ26AzhpF72mC7sN1UA'
+global.nnnttt = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = '-'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/6285237596750' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
